@@ -1,6 +1,6 @@
 # MTCNN
 
-下述论文预测部分的PyTorch实现：
+MTCNN 论文预测部分的 PyTorch 实现：
 [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.](https://arxiv.org/abs/1604.02878)
 
 ## 模型
