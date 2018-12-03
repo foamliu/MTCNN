@@ -11,7 +11,7 @@
 
 ![image](https://github.com/foamliu/MTCNN/raw/master/images/pipeline.png)
 
-###架构
+### 架构
 
 ![image](https://github.com/foamliu/MTCNN/raw/master/images/architecture.png)
 
