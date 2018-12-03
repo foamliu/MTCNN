@@ -7,7 +7,10 @@ MTCNN 论文预测部分的 PyTorch 实现：
 
 ### 管道
 
-级联框架管道包括三阶段多任务深度卷积网络：首先，短平快的Proposal Network (P-Net)生成候选窗口；然后在下一阶段通过 Refinement Network (R-Net) 完善这些窗口；在最后阶段，Output Network (O-Net)生成边界框和脸部标记点。
+级联框架管道包括三阶段多任务深度卷积网络：
+1. 首先，短平快的Proposal Network (P-Net) 生成候选窗口；
+2. 然后在下一阶段通过 Refinement Network (R-Net) 完善这些窗口；
+3. 最后阶段，Output Network (O-Net) 生成边界框和脸部标记点。
 
 ![image](https://github.com/foamliu/MTCNN/raw/master/images/pipeline.png)
 
