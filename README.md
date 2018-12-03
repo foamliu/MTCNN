@@ -16,6 +16,8 @@ MTCNN 论文预测部分的 PyTorch 实现：
 
 ### 架构
 
+P-Net, R-Net, and O-Net 的模型架构，其中 “MP” 表示最大池化，“Conv”表示卷积。
+
 ![image](https://github.com/foamliu/MTCNN/raw/master/images/architecture.png)
 
 ## 效果
